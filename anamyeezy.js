@@ -14,8 +14,8 @@ var config = {
   'phone_number': 'XXX-XXX-XXXX', // must be in this format
   'billing_address_1': '300 Yeezy St', // main address for billing address
   'billing_address_2': '', // used for apartment #s, etc for BILLING
-  'billing_city': 'Fairfax', // City for billing information
-  'billing_state': 'California', // State for billing information
+  'billing_city': 'Victoria', // City for billing information
+  'billing_state': 'British Columbia', // State for billing information
   'billing_zipcode': '90036', // ZIP CODE for billing information
   'name_on_card': 'Hypebeast McYeezus', //FULL NAME as printed on the front of your Credit Card
   'card_number': 'STEALMYIDENTITY101', // Put your full Credit Card # in this field without spaces or dashes or anything
