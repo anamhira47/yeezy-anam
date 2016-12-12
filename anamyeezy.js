@@ -1,3 +1,4 @@
+// I am trying to fix it so the purchase will be fully automated
 // EDIT THE STUFF BELOW IN ORDER TO MAKE THIS THING WORK. :)
 // I PUT NOTES ON THE RIGHT OF EACH FIELD TO HELP YOU OUT.
 
