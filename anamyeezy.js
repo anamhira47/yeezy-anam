@@ -7,13 +7,13 @@ var config = {
   'billing_different_than_shipping': true, // set to use different billing address, TRUE or FALSE
   'first_name': 'Hypebeast', // Shipping firstname
   'last_name': 'McYeezus', // Shipping surname
-  'street_address_1': '2 Supreme St.', // main address for shipping address
+  'street_address_1': '2 Bape St.', // main address for shipping address
   'street_address_2': 'Suite 6', // used for apartment #s, etc FOR SHIPPING
-  'city': 'New York', // City for shipping information
+  'city': 'Flatbush', // City for shipping information
   'state': 'New York', // State for shipping information
   'zipcode': '10013', // ZIP CODE for shipping information
   'phone_number': 'XXX-XXX-XXXX', // must be in this format
-  'billing_address_1': '300 Yeezy St', // main address for billing address
+  'billing_address_1': '424 TDE St', // main address for billing address
   'billing_address_2': '', // used for apartment #s, etc for BILLING
   'billing_city': 'Victoria', // City for billing information
   'billing_state': 'British Columbia', // State for billing information
@@ -21,17 +21,12 @@ var config = {
   'name_on_card': 'Hypebeast McYeezus', //FULL NAME as printed on the front of your Credit Card
   'card_number': 'STEALMYIDENTITY101', // Put your full Credit Card # in this field without spaces or dashes or anything
   'expires_month': 'January', // must be full month name to match adidas.com
-  'expires_year': '2001', // Year the Credit Card expires
+  'expires_year': '2047', // Year the Credit Card expires
   'security_code': '404', // a 3 or 4 digit CVV code that is on the back of your Credit Card (4 Digits for AMEX on front)
   'shipfast': true //SET TO TRUE IF YOU WANT OVERNIGHT SHIPPING, COSTS $15 EXTRA. SET TO FALSE FOR NORMAL SHIPPING.
 };
 
-// PLEASE DO NOT EDIT ANYTHING BELOW THIS
-// PLEASE DO NOT EDIT ANYTHING BELOW THIS
-// PLEASE DO NOT EDIT ANYTHING BELOW THIS
-// PLEASE DO NOT EDIT ANYTHING BELOW THIS
-// PLEASE DO NOT EDIT ANYTHING BELOW THIS
-
+// Only edit below this line at your own risk, I do not reccomend changing anything below this line
 function placeOrder() {
   console.log('PLACING ORDER!!!!! PRAY FOR ME FAM!!!');
   $('button.place-order').trigger('click');
