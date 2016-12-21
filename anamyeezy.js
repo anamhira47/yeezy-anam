@@ -3,10 +3,10 @@
 // I PUT NOTES ON THE RIGHT OF EACH FIELD TO HELP YOU OUT.
 
 var config = {
-  'desired_sizes': ['9', '9.5', '10', '8.5', '8', '10.5', '11', '11.5', '12'], // arranged in order of preference
+  'desired_sizes': ['9', '9.5', '10', '8.5', '8', '10.5', '11', '11.5', '12', '7'], // arranged in order of preference
   'billing_different_than_shipping': true, // set to use different billing address, TRUE or FALSE
-  'first_name': 'Hypebeast', // Shipping firstname
-  'last_name': 'McYeezus', // Shipping surname
+  'first_name': 'Pro', // Shipping firstname
+  'last_name': 'Era', // Shipping surname
   'street_address_1': '2 Bape St.', // main address for shipping address
   'street_address_2': 'Suite 6', // used for apartment #s, etc FOR SHIPPING
   'city': 'Flatbush', // City for shipping information
